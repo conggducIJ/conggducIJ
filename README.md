@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran Duc Cong</h1>
-<h3 align="center">Teddy</h3>
+<h3 align="center">v a n t e</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=conggducij&label=Profile%20views&color=0e75b6&style=flat" alt="conggducij" /> </p>
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tran Duc Cong</h1>
+
 <h3 align="center">bae kajima !!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=conggducij&label=Profile%20views&color=0e75b6&style=flat" alt="conggducij" /> </p>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **congduc3107@gmail.com**
 
-- ⚡ Fun fact **Teddy So Cute <3**
+- ⚡ Fun fact **I c h i g o**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -27,4 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=conggducij&show_icons=true&locale=en" alt="conggducij" /></p>
 
+## Snake eating my contribution graph:
 
+![snake gif](https://github.com/conggducIJ/conggducIJ/blob/output/github-contribution-grid-snake.gif)

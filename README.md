@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **congduc3107@gmail.com**
 
-- ⚡ Fun fact **I c h i g o**
+- ⚡ Fun fact **: I c h i g o**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -29,4 +29,4 @@
 
 ## Snake eating my contribution graph:
 
-![snake gif](https://github.com/conggducIJ/conggducIJ/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/conggducIJ/conggducIJ/blob/output/github-contribution-grid-snake.svg)
